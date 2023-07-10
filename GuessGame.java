@@ -43,7 +43,7 @@ public static void main(String[] args){
  
 
     random1 rands = new random1();
-    System.out.println("Please Enter Value : ");
+    System.out.println("Please Enter Int Value : ");
  
 
 while (true){
