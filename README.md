@@ -7,6 +7,6 @@ Computer Guess Random Value : 1 to 100
 
 #you can guess the actual computer selection number by guessing any number from 1 to 100
 
-You have no Compiler so Try this online Comiler : Copy program and past in compiler 
+You have no Compiler so Try this online Compiler : Copy program and past in compiler 
 
 https://www.programiz.com/java-programming/online-compiler/
