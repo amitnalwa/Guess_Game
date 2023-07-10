@@ -96,7 +96,7 @@ public class Project_Library {
 
             }
 
-            else if (ie=='Q'){
+            else if (ie=='Q' || ie=='q'){
               System.exit(ie);
             } 
 
