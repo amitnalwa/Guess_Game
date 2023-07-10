@@ -20,9 +20,7 @@ Enter new Book  Enter : E  and e
  Show Library Books : S and s 
  
   For Exit press Q and q  
-Button {
-    @include colorize($color: primary); it press Q and q  
-}
+
   *******************************************
 
 
