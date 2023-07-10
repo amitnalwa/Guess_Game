@@ -14,13 +14,15 @@ https://www.programiz.com/java-programming/online-compiler/
 # Library
 
 Enter new Book  Enter : E  and e 
+
  Issue Book For Enter : I and i 
+
  Show Library Books : S and s 
+ 
   For Exit press Q and q  
 
   Press E for new Book Add  in Library
-  
-  
+
   Press I for Issue Book and Enter book name for issue , Enter Student Name , Enter uniqe id = any number;
   
   Press S for Show all Books
