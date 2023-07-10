@@ -92,7 +92,7 @@ Enter new Book  Enter : E  and e
 ## Step 1
 
 ```bash
-Press E for new Book Add in Library ```bash
+Press E for new Book Add in Library ```
 
 <li>Step 4<a target="_blank" " <li>
 
