@@ -17,10 +17,12 @@ https://www.programiz.com/java-programming/online-compiler/
   /* or any other variables/style */
 }
 [data-theme='dark'] {
-  --my-color: #000;
+  --my-color: #00f;
+  # Library
 }
 [data-theme='pink'] {
   --my-color: #ffabc8;
+  # Library
 }
 # Library
 
