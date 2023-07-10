@@ -87,12 +87,11 @@ Enter new Book  Enter : E  and e
 </li>
 
 
+[![Copy](https://raw.githubusercontent.com/atotto/clipboard/master/.github/assets/clipboard.svg)](clipboard.svg)
 
 
 ## Step 1
 
 ```bash
-Press E for new Book Add in Library ```
-
-<li>Step 4<a target="_blank" " <li>
+Press E for new Book Add in Library
 
