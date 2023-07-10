@@ -72,7 +72,8 @@ Enter new Book  Enter : E  and e
 
 <li>Step 4<a target="_blank" " 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>
-```bash
+## Step 1
+ ```bash
 Press E for new Book Add in Library
 </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
 
