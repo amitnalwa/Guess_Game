@@ -85,3 +85,5 @@ Enter new Book  Enter : E  and e
   </div></div>
 </li>
 
+$ cd ../lorem
+
