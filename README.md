@@ -39,7 +39,7 @@ Enter new Book  Enter : E  and e
 </li>
 
 
-<li>Step 2<a target="_blank" " href="https://camo.githubusercontent.com/885453bd019c57e86c4838e8fc6a63483aaad91b83d431295c60ecd2d99e03b1/68747470733a2f2f696d672e736869656c64732e696f2f617263686c696e75782f762f636f6d6d756e6974792f616e792f6a6164783f6c6162656c3d"><img src="https://camo.githubusercontent.com/885453bd019c57e86c4838e8fc6a63483aaad91b83d431295c60ecd2d99e03b1/68747470733a2f2f696d672e736869656c64732e696f2f617263686c696e75782f762f636f6d6d756e6974792f616e792f6a6164783f6c6162656c3d" alt="Arch Linux package" data-canonical-src="https://img.shields.io/archlinux/v/community/any/jadx?label=" style="max-width: 100%;"></a>
+<li>Step 2<a target="_blank" " 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>
  Press I for Issue Book and Enter book name for issue , Enter Student Name , Enter uniqe id = any number;
 </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
@@ -54,7 +54,7 @@ Enter new Book  Enter : E  and e
   </div></div>
 </li>
 
-<li>Step 3<a target="_blank" " href="https://camo.githubusercontent.com/885453bd019c57e86c4838e8fc6a63483aaad91b83d431295c60ecd2d99e03b1/68747470733a2f2f696d672e736869656c64732e696f2f617263686c696e75782f762f636f6d6d756e6974792f616e792f6a6164783f6c6162656c3d"><img src="https://camo.githubusercontent.com/885453bd019c57e86c4838e8fc6a63483aaad91b83d431295c60ecd2d99e03b1/68747470733a2f2f696d672e736869656c64732e696f2f617263686c696e75782f762f636f6d6d756e6974792f616e792f6a6164783f6c6162656c3d" alt="Arch Linux package" data-canonical-src="https://img.shields.io/archlinux/v/community/any/jadx?label=" style="max-width: 100%;"></a>
+<li>Step 3<a target="_blank" " 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>
  press S for Show Books
 </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
