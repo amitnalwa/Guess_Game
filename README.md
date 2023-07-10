@@ -83,7 +83,30 @@ Enter new Book  Enter : E  and e
 </svg>
     </clipboard-copy>
   </div></div>
+
 </li>
 
 
+
+
+## Copy Code
+
+```bash
+# Your code here
+
+ 
+
+<button class="btn" data-clipboard-target="#code-snippet">Copy</button>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+<script>
+    var clipboard = new ClipboardJS('.btn');
+    clipboard.on('success', function(e) {
+        e.trigger.innerHTML = 'Copied!';
+        e.clearSelection();
+        setTimeout(function() {
+            e.trigger.innerHTML = 'Copy';
+        }, 2000);
+    });
+</script>
 
