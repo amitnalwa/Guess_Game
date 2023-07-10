@@ -13,8 +13,8 @@ https://www.programiz.com/java-programming/online-compiler/
 
 // example colors object
 colors: {
-  blue: '#07c',
-  green: '#0fa',
+  blue: '#071c',
+  green: '#0f0a',
 
 # Library
 
