@@ -92,15 +92,7 @@ Enter new Book  Enter : E  and e
 ## Step 1
 
 ```bash
-Press E for new Book Add in Library
+Press E for new Book Add in Library ```bash
 
-## Step 2
-
-```bash
-Press I for Issue Book and Enter book name for issue , Enter Student Name , Enter uniqe id = any number;
-
-## Step 3
-
-```bash
-Press E for new Book Add in Library
+<li>Step 4<a target="_blank" " <li>
 
