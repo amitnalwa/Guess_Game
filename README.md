@@ -89,12 +89,18 @@ Enter new Book  Enter : E  and e
 
 
 
-## Copy Code
+## Step 1
 
 ```bash
-Jagga
-# Your code here
+Press E for new Book Add in Library
 
- 
+## Step 2
 
+```bash
+Press I for Issue Book and Enter book name for issue , Enter Student Name , Enter uniqe id = any number;
+
+## Step 3
+
+```bash
+Press E for new Book Add in Library
 
