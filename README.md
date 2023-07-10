@@ -21,6 +21,8 @@ Enter new Book  Enter : E  and e
  
   For Exit press Q and q  
 
+  *******************************************
+
   Press E for new Book Add  in Library
 
   Press I for Issue Book and Enter book name for issue , Enter Student Name , Enter uniqe id = any number;
