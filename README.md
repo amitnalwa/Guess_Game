@@ -11,6 +11,11 @@ You have no Compiler so You Can Try this online Compiler : Copy program and past
 
 https://www.programiz.com/java-programming/online-compiler/
 
+// example colors object
+colors: {
+  blue: '#07c',
+  green: '#0fa',
+
 # Library
 
 Enter new Book  Enter : E  and e 
@@ -19,7 +24,7 @@ Enter new Book  Enter : E  and e
 
  Show Library Books : S and s 
  
-  For Exit press Q and q  
+  For Exit press Q and q  }
 
   *******************************************
 
