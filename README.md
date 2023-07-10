@@ -11,19 +11,6 @@ You have no Compiler so You Can Try this online Compiler : Copy program and past
 
 https://www.programiz.com/java-programming/online-compiler/
 
-// example colors object
-:root {
-  --my-color: #fff;
-  /* or any other variables/style */
-}
-[data-theme='dark'] {
-  --my-color: #00f;
-  # Library
-}
-[data-theme='pink'] {
-  --my-color: #ffabc8;
-  # Library
-}
 # Library
 
 Enter new Book  Enter : E  and e 
