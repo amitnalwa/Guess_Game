@@ -30,11 +30,9 @@ class Library{
   }
 }
 
+class data{
 
-public class Project_Library {
-    
-  public static void main(String[] args) throws IOException {
-
+  public void data1() throws IOException{
 
     String arg[] = new String[3];
 
@@ -42,6 +40,7 @@ public class Project_Library {
     arg[1] = "Computer";
     arg[2] = "Science";
 
+    System.out.println("Enter Any Key Word For Start : ");
 
     try {
       File myObj = new File("Library.txt");
@@ -96,7 +95,7 @@ public class Project_Library {
 
             }
 
-            else if (ie=='Q' || ie=='q'){
+            else if (ie=='Q'){
               System.exit(ie);
             } 
 
@@ -157,5 +156,18 @@ public class Project_Library {
       e.printStackTrace();
     }
   }
-}
+  }
 
+
+
+public class Project_Library {
+    
+  public static void main(String[] args) throws IOException {
+
+    data obj3 = new data();
+    while (true){
+      obj3.data1();
+             }
+
+}
+}
