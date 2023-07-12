@@ -13,18 +13,21 @@ import java.util.Scanner;
     int d5;
     int d6;
     int d7;
-    if (sum <= 15 && sum >= -15){
-            d6 = 96;
-            System.out.println("Your Guess is  : " + d6+"% Correct");
-        }
-           else if  (sum <= 7 && sum >= -7){
-            d1 = 90;
-            System.out.println("Your Guess is  : " + d1+"% Correct");
-        }
-               else if  (sum <= 3 && sum >= -3){
+           
+    if  (sum <= 3 && sum >= -3){
             d7 = 99;
             System.out.println("Your Guess is  : " + d7+"% Correct only 3 guess availabe : ");
         }
+    else if  (sum <= 7 && sum >= -7){
+    d1 = 97;
+    System.out.println("Your Guess is  : " + d1+"% Correct");
+}
+
+   else if (sum <= 15 && sum >= -15){
+            d6 = 86;
+            System.out.println("Your Guess is  : " + d6+"% Correct");
+        }
+            
         else if (sum <= 25 && sum >= -25){
             d2 = 65;
             System.out.println("Your Guess is  : " + d2+"% Correct");
@@ -52,12 +55,12 @@ import java.util.Scanner;
     // System.out.println(sum);        
 
         if (a < b){
-                System.out.println("Please Enter Small Value  : ");
+                System.out.println("Please Enter (Small) Value  : ");
                 calculate +=1;
                 hint(a,b);
         }
         else if (a>b) {
-            System.out.println("Please Enter Large Value  : ");
+            System.out.println("Please Enter (Large) Value  : ");
                 calculate +=1;
             hint(a,b);
         } 
