@@ -3,9 +3,8 @@ import java.util.Scanner;
 
  class random1{
     int calculate = 0;
-    public void hint(int a , int b){
-            
-                
+
+    public void hint(int a , int b){               
     int sum = a-b;
     int d1;
     int d2;
@@ -13,13 +12,18 @@ import java.util.Scanner;
     int d4;
     int d5;
     int d6;
-        if (sum <= 15 && sum >= -10){
+    int d7;
+    if (sum <= 15 && sum >= -15){
             d6 = 96;
             System.out.println("Your Guess is  : " + d6+"% Correct");
         }
-           else if  (sum <= 7 && sum >= -10){
+           else if  (sum <= 7 && sum >= -7){
             d1 = 90;
             System.out.println("Your Guess is  : " + d1+"% Correct");
+        }
+               else if  (sum <= 3 && sum >= -3){
+            d7 = 99;
+            System.out.println("Your Guess is  : " + d7+"% Correct only 3 guess availabe : ");
         }
         else if (sum <= 25 && sum >= -25){
             d2 = 65;
@@ -87,7 +91,7 @@ public static void main(String[] args){
 
     random1 rands = new random1();
     System.out.println("Please Enter Value : ");
-    System.out.println(number);
+    // System.out.println(number);
  
 
 while (true){
