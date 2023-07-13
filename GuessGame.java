@@ -67,7 +67,7 @@ import java.util.Scanner;
             else if (a==b) {
                 calculate +=1;
             System.out.println("Congratulation You Won And Your Attempt =  " + calculate);
-            System.exit()
+            System.exit(0);
              
         } 
         
